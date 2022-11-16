@@ -1,4 +1,4 @@
-# tp_final_data_mining
+# Evaluación de técnicas de Clustering en nubes de puntos LIDAR
 Trabajo Final de Data Mining
 AÑO: 2022
-Autor: Nicol
+Autor: Nicolas Urbano Pintos
